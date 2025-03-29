@@ -108,3 +108,4 @@ Edit
 npm run build
 # or
 yarn build
+Time taken to complete 4 hours
