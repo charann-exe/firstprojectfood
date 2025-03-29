@@ -98,12 +98,7 @@ npm start
 yarn start
 This command runs the app in development mode and opens http://localhost:3000 in your browser.
 
-Build for Production:
-To create an optimized production build, run:
+
 Time taken to complete assignment 4 hours
 
-bash
-Copy
-Edit
-npm run build
-Time taken to complete 4 hours
+
