@@ -100,6 +100,7 @@ This command runs the app in development mode and opens http://localhost:3000 in
 
 Build for Production:
 To create an optimized production build, run:
+Time taken to complete assignment 4 hours
 
 bash
 Copy
