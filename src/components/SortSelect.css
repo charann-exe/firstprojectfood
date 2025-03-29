@@ -1,0 +1,13 @@
+.sort-select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    transition: border-color 0.3s;
+  }
+  
+  .sort-select:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
